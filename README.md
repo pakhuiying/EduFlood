@@ -22,4 +22,5 @@ Contributors in Alphabetical order:
     - Flood shelters
 
 ## UI Interface
+Try out [EduFlood](https://flask-production-a22e.up.railway.app/)!
 ![EduFlood+](images/EduFlood.png)
