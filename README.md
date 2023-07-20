@@ -1,23 +1,25 @@
----
-title: Flask
-description: A popular minimal server framework for Python
-tags:
-  - python
-  - flask
----
+# Backend Solution for Singapore India Hackathon 2023
 
-# Python Flask Example
+Contributors in Alphabetical order:
+- Bao Lam Ngyuen
+- Bhavyta Aggarwal
+- Keshav Agarwal
+- Pak Hui Ying
 
-This is a [Flask](https://flask.palletsprojects.com/en/1.1.x/) app that serves a simple JSON response.
+## EduFlood+ (backend)
+- **Flood Simulator**, where users can enter any flood level to simulate flood extent
+- **"Am I Safe" module**, where users can check if their current location is at risk of flood at a given simulated flood levels of one and two meters, and at any location in the world
+- Data sets/layers for Mumbai include:
+    - Population density
+    - Digital Elevation Map (DEM)
+    - Land subsidence
+    - Land use map (residential, slums, commercial, industrial)
+    - Past historical flood extent (July 2005)
+    - Mumbai past flood inventory
+    - Vulnerability map
+    - Vulnerability classification
+    - Crowd-sourced data
+    - Flood shelters
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
-
-## ✨ Features
-
-- Python
-- Flask
-
-## 💁‍♀️ How to use
-
-- Install Python requirements `pip install -r requirements.txt`
-- Start the server for development `python3 main.py`
+## UI Interface
+![EduFlood+](images/EduFlood.png)
